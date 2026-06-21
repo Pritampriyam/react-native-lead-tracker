@@ -1,6 +1,6 @@
 import { io } from "socket.io-client";
 
-const socket = io("http://192.168.0.110:3000", {
+const socket = io("https://react-native-lead-tracker.onrender.com", {
   transports: ["websocket"],
 });
 
