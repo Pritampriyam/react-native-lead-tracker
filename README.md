@@ -1,4 +1,4 @@
-# 🚀 Meta Lead Tracker
+# Meta Lead Tracker
 
 A real-time lead tracking Proof of Concept built with **Meta Lead Ads**, **Node.js**, **Socket.IO**, and **React Native (Expo)**.
 
@@ -322,7 +322,7 @@ newLead
 
 ---
 
-# 🚀 Local Development Setup
+#  Local Development Setup
 
 ## Clone Repository
 
@@ -392,10 +392,6 @@ Lead appears instantly in mobile application.
 ```
 
 ---
-
-# 📸 Screenshots
-
-Add screenshots here:
 
 ## Empty State
 
